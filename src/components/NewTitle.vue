@@ -20,7 +20,7 @@ export default {
 <style scoped lang="scss">
 h1 {
   margin: 40px 0 0;
-  color:red;
+  color:#08415C;
 }
 
 
